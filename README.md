@@ -35,7 +35,18 @@ Below are the some visuals in PowerBi AND Tableau:
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/64c16d53-c0a6-4abf-b9d1-eb4a4787bc81)
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/ea3f6d2f-3d45-4ecf-bbc7-b312f2ea6ef2)
 
+Conclusion
+Leveraging dimensional modeling, data profiling, and data visualization helped address key business questions:-
 
+1. Top ten most inspected and worst-performing establishments based on inspection outcomes over the last two full years
+2. Number of food inspections over time.
+3. inspection results (pass vs. fail), grades, scores, or score ranges, and the number, severity, and types of violations reported.
+4. Food establishments based on attributes such as business type, cuisine, and city boroughs.
+
+   
+Skills and tools: SQL, Alteryx, PowerBi, Python, ER/Studio, Tableau
+
+Concepts: EDA, Data Cleansing, Data Manupulation, Dealing with outliers and missing values, Data Modeling, Data Integration, ETL, Dashboard Creation, Data visualization, Data Analysis
 
 
 
