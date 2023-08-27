@@ -15,4 +15,7 @@ Conduct in-depth data profiling with Alteryx to gain comprehensive insights into
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/88c8bbab-6bb1-423f-afe6-ae6918c8f9da)
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/7b7d1df8-b40f-461f-b5c9-ea5b24e94b77)
 
-   
+2. Dynamic Dimensional Modeling:
+Create a dynamic dimensional model using ER/Studio to facilitate efficient data analysis, enabling exploration of food inspection data across various dimensions and hierarchies.
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/0135223f-b9ab-40f8-91d3-16736c0657d6)
+
