@@ -14,6 +14,6 @@ DESCRIPTION:
 Conduct in-depth data profiling with Alteryx to gain comprehensive insights into the food inspection data, ensuring data quality and accuracy for subsequent analysis.
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/88c8bbab-6bb1-423f-afe6-ae6918c8f9da)
 
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/3c30172c-9a33-4a13-b98e-5794b98b37ac)
+    ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/3c30172c-9a33-4a13-b98e-5794b98b37ac)
 
    
