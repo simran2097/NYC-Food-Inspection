@@ -26,6 +26,17 @@ Designed and treamlined data integration with Talend and Alteryx, merging data f
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/66fc6b28-12c4-44d2-b98d-9fb2f49314f9)
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/d5be097e-b0e8-489d-969a-df58c19355dc)
 
+4. Interactive Dashboards:
+Develop interactive dashboards using Power BI and Tableau to visualize key insights, answering critical business questions such as inspection trends, pass vs. fail rates, and types of violations.
+Below are the some visuals in PowerBi AND Tableau:
+
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/cbf6e231-22ee-4796-9bf7-60debeeaeab5)
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/fe585abc-df79-434f-9160-2e5dfd8622f3)
+
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/64c16d53-c0a6-4abf-b9d1-eb4a4787bc81)
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/ea3f6d2f-3d45-4ecf-bbc7-b312f2ea6ef2)
+
+
 
 
 
