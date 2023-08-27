@@ -31,7 +31,6 @@ Develop interactive dashboards using Power BI and Tableau to visualize key insig
 Below are the some visuals in PowerBi AND Tableau:
 
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/cbf6e231-22ee-4796-9bf7-60debeeaeab5)
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/fe585abc-df79-434f-9160-2e5dfd8622f3)
 
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/64c16d53-c0a6-4abf-b9d1-eb4a4787bc81)
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/ea3f6d2f-3d45-4ecf-bbc7-b312f2ea6ef2)
