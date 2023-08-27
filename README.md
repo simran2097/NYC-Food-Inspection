@@ -10,4 +10,10 @@ Performed analysis on NYC Food Inspection dataset that contains food inspections
 • Created an extensive collection of 100+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
 
 DESCRIPTION:
-1. 
+1. Data Profiling:
+Conduct in-depth data profiling with Alteryx to gain comprehensive insights into the food inspection data, ensuring data quality and accuracy for subsequent analysis.
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/88c8bbab-6bb1-423f-afe6-ae6918c8f9da)
+
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/83270fbf-d4db-435b-a9ca-c46f01bd8bc2)
+
+   
