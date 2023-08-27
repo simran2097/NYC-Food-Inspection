@@ -20,4 +20,13 @@ Create a dynamic dimensional model using ER/Studio to facilitate efficient data 
 
 ![NYC_Food_inspections_DimensionalModel](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/60314561-367b-4af1-94c6-2543a23f9abe)
 
+3. Data Integration:
+Designed and treamlined data integration with Talend and Alteryx, merging data from multiple sources for robust and reliable profiling.
+
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/66fc6b28-12c4-44d2-b98d-9fb2f49314f9)
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/d5be097e-b0e8-489d-969a-df58c19355dc)
+
+
+
+
 
